@@ -1,0 +1,7 @@
+# ignore hugo dir
+public/
+resources/
+
+# ignore tmp file
+.DS_Store
+.hugo_build.lock
